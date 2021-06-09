@@ -1,1 +1,1 @@
-console.log(document.getElementsByTagName('table'))
+console.log(document.getElementsByClassName('wikiepisodetable')[0].rows)
