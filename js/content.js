@@ -1,1 +1,1 @@
-console.log('window.URL')
+console.log(document.getElementsByTagName('table'))
